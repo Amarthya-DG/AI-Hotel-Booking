@@ -29,6 +29,9 @@ A sophisticated hotel booking system built with **LangGraph workflows**, featuri
 - 🐛 **Debug Mode**: Detailed workflow insights and timing information
 - 📈 **Real-time Metrics**: Performance tracking and optimization indicators
 
+## System Architecture
+![Screenshot 2025-07-08 143631](https://github.com/user-attachments/assets/029cf627-dfe9-4786-9e64-f0f896f31778)
+
 ## 📁 Project Structure
 
 ```

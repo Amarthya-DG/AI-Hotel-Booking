@@ -1,4 +1,4 @@
-# 🏨 LangGraph Hotel Booking System
+# 🏨 AI Agents Hotel Booking System
 
 A sophisticated hotel booking system built with **LangGraph workflows**, featuring intelligent multi-agent orchestration, natural language processing, and async optimizations.
 

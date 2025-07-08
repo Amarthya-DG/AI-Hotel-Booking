@@ -1,0 +1,11 @@
+langchain
+langchain-mcp-adapters
+langchain-openai
+langgraph
+fastmcp
+pydantic
+python-dotenv
+mcp
+langchain_google_genai
+nest_asyncio
+streamlit
